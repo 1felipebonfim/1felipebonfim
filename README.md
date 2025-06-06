@@ -34,8 +34,8 @@ Atualmente focado em Python, HTML, CSS e JavaScript. 🚀
 
 - Python (Curso em Vídeo)
 - Front-end com Rodolfo Mori (HTML, CSS, JS)
-- Inglês Intermediário
-- Lógica de Programação
+- Lógica de Programação e Algorítimos
+- Inglês Avançado
 
 ---
 
